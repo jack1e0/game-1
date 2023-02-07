@@ -1,2 +1,2 @@
-# game-2
+# game-1
 fighting for my life in unity
